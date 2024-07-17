@@ -14,6 +14,20 @@
       </tags>
   </entry>
   <entry>
+    <title>web 推荐</title>
+    <url>/2024/07/15/recommendationlink/</url>
+    <content><![CDATA[<h1 id="前端部署工具-vercel"><a href="#前端部署工具-vercel" class="headerlink" title="前端部署工具 vercel"></a>前端部署工具 vercel</h1><p><a href="https://vercel.com/">vercel</a><br><br></p>
+<h1 id="个人域名"><a href="#个人域名" class="headerlink" title="个人域名"></a>个人域名</h1><p><a href="https://dc.console.aliyun.com/">阿里云</a><br><br></p>
+<h1 id="CDN"><a href="#CDN" class="headerlink" title="CDN"></a>CDN</h1><p><a href="https://dash.cloudflare.com/">cloudflare</a></p>
+]]></content>
+      <categories>
+        <category>推荐</category>
+      </categories>
+      <tags>
+        <tag>好物推荐</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Hexo 安装搭建</title>
     <url>/2024/07/15/file/</url>
     <content><![CDATA[<style>
@@ -88,20 +102,6 @@
       </categories>
       <tags>
         <tag>Hexo</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>web 推荐</title>
-    <url>/2024/07/15/recommendationlink/</url>
-    <content><![CDATA[<h1 id="前端部署工具-vercel"><a href="#前端部署工具-vercel" class="headerlink" title="前端部署工具 vercel"></a>前端部署工具 vercel</h1><p><a href="https://vercel.com/">vercel</a><br><br></p>
-<h1 id="个人域名"><a href="#个人域名" class="headerlink" title="个人域名"></a>个人域名</h1><p><a href="https://dc.console.aliyun.com/">阿里云</a><br><br></p>
-<h1 id="CDN"><a href="#CDN" class="headerlink" title="CDN"></a>CDN</h1><p><a href="https://dash.cloudflare.com/">cloudflare</a></p>
-]]></content>
-      <categories>
-        <category>推荐</category>
-      </categories>
-      <tags>
-        <tag>好物推荐</tag>
       </tags>
   </entry>
 </search>
