@@ -114,4 +114,66 @@
         <tag>Hexo</tag>
       </tags>
   </entry>
+  <entry>
+    <title>first md</title>
+    <url>/2024/07/18/TechnologyStack/Programme/cpp/cpp01/</url>
+    <content><![CDATA[<h1 id="Is-my-first-cpp-md"><a href="#Is-my-first-cpp-md" class="headerlink" title="Is my first cpp md"></a>Is my first cpp md</h1><p>hello world!</p>
+]]></content>
+      <categories>
+        <category>TechnologyStack</category>
+        <category>Programme</category>
+        <category>cpp</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>first md</title>
+    <url>/2024/07/18/TechnologyStack/Programme/cmake/cmake01/</url>
+    <content><![CDATA[]]></content>
+      <categories>
+        <category>TechnologyStack</category>
+        <category>Programme</category>
+        <category>cmake</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>first md</title>
+    <url>/2024/07/18/TechnologyStack/Programme/c/c01/</url>
+    <content><![CDATA[]]></content>
+      <categories>
+        <category>TechnologyStack</category>
+        <category>Programme</category>
+        <category>c</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>C盘扩容</title>
+    <url>/2024/07/18/DailySkill/PC/operation/disk/</url>
+    <content><![CDATA[<h1 id="查看磁盘状况"><a href="#查看磁盘状况" class="headerlink" title="查看磁盘状况"></a>查看磁盘状况</h1><p>打开磁盘管理查看C盘分区左右状况<br>以下是所有5种状况：<br><img src="https://github.com/ammc520/mymapdepot/blob/main/HexoDepot/ArticlePicture/DailySkill/PC/operation/img.png" alt="img.png"></p>
+<h1 id="开始扩容"><a href="#开始扩容" class="headerlink" title="开始扩容"></a>开始扩容</h1><h2 id="第一种"><a href="#第一种" class="headerlink" title="第一种"></a>第一种</h2><p>磁盘紧邻基本数据分区卷，并且没有绿色外框<br><img src="https://github.com/ammc520/mymapdepot/blob/main/HexoDepot/ArticlePicture/DailySkill/PC/operation/img_3.png" alt="img_3.png"></p>
+<ol>
+<li><p>先将该卷内数据拷贝出盘符</p>
+</li>
+<li><p>右击紧邻的卷选择删除卷<br><img src="https://github.com/ammc520/mymapdepot/blob/main/HexoDepot/ArticlePicture/DailySkill/PC/operation/img_4.png" alt="img_4.png"></p>
+</li>
+<li><p>选择C盘右击扩展卷</p>
+</li>
+<li><p>之后一直下一步完成即可成功扩容<br><img src="https://github.com/ammc520/mymapdepot/blob/main/HexoDepot/ArticlePicture/DailySkill/PC/operation/img_1.png" alt="img_1.png"></p>
+</li>
+</ol>
+<h2 id="第二种"><a href="#第二种" class="headerlink" title="第二种"></a>第二种</h2><p>磁盘右边紧邻恢复分区卷，并且没有绿色外框<br><img src="https://github.com/ammc520/mymapdepot/blob/main/HexoDepot/ArticlePicture/DailySkill/PC/operation/img_2.png" alt="img_2.png"></p>
+<ol>
+<li>先将该恢复分区卷后面卷的内容拷贝出，避免数据丢失<br><img src="https://github.com/ammc520/mymapdepot/blob/main/HexoDepot/ArticlePicture/DailySkill/PC/operation/img_5.png" alt="img_5.png"></li>
+<li>选择恢复分区卷的后面卷，右击删除该卷<br><img src="https://github.com/ammc520/mymapdepot/blob/main/HexoDepot/ArticlePicture/DailySkill/PC/operation/img_6.png" alt="img_6.png"></li>
+<li>打开 DiskGenius 工具选择该恢复分区，并且右击选择调整分区大小<br><img src="https://github.com/ammc520/mymapdepot/blob/main/HexoDepot/ArticlePicture/DailySkill/PC/operation/img_7.png" alt="img_7.png"></li>
+<li>选择蓝色恢复分区并且按住鼠标左键，当出现十字箭头时往最右边拖拽<br><img src="https://github.com/ammc520/mymapdepot/blob/main/HexoDepot/ArticlePicture/DailySkill/PC/operation/img_9.png" alt="img_9.png"></li>
+<li>确定无误后，完成即可，此时恢复分区已经在最右侧<br><img src="https://github.com/ammc520/mymapdepot/blob/main/HexoDepot/ArticlePicture/DailySkill/PC/operation/img_8.png" alt="img_8.png"></li>
+<li>我们回到磁盘管理，将以上空闲分区按照第一种方式重新合入C盘，选择C盘右击扩展分区，一直下一页完成即可<br><img src="https://github.com/ammc520/mymapdepot/blob/main/HexoDepot/ArticlePicture/DailySkill/PC/operation/img_10.png" alt="img_10.png"></li>
+</ol>
+<h3 id="第三种情况及以下待后续更新…"><a href="#第三种情况及以下待后续更新…" class="headerlink" title="第三种情况及以下待后续更新…"></a>第三种情况及以下待后续更新…</h3>]]></content>
+      <categories>
+        <category>DailySkill</category>
+        <category>PC</category>
+        <category>operation</category>
+      </categories>
+  </entry>
 </search>
