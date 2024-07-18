@@ -6,22 +6,11 @@
     <content><![CDATA[<h1 id="1-GitHub-中创建仓库"><a href="#1-GitHub-中创建仓库" class="headerlink" title="1. GitHub 中创建仓库"></a>1. GitHub 中创建仓库</h1><h1 id="2-本地创建文件夹"><a href="#2-本地创建文件夹" class="headerlink" title="2. 本地创建文件夹"></a>2. 本地创建文件夹</h1><h1 id="3-使用终端或者-git-bash-打开"><a href="#3-使用终端或者-git-bash-打开" class="headerlink" title="3. 使用终端或者 git bash 打开"></a>3. 使用终端或者 git bash 打开</h1><h1 id="4-初始化本地文件夹"><a href="#4-初始化本地文件夹" class="headerlink" title="4. 初始化本地文件夹"></a>4. 初始化本地文件夹</h1><figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">git init</span><br></pre></td></tr></table></figure>
 <h1 id="5-复制仓库的-uil"><a href="#5-复制仓库的-uil" class="headerlink" title="5. 复制仓库的 uil"></a>5. 复制仓库的 uil</h1><h1 id="6-git-clone-克隆仓库"><a href="#6-git-clone-克隆仓库" class="headerlink" title="6. git clone 克隆仓库"></a>6. git clone 克隆仓库</h1><h1 id="7-本地文件夹存放文件并推送至仓库"><a href="#7-本地文件夹存放文件并推送至仓库" class="headerlink" title="7. 本地文件夹存放文件并推送至仓库"></a>7. 本地文件夹存放文件并推送至仓库</h1><figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">git add .</span><br><span class="line"></span><br><span class="line">git commit -m &quot;日志描述&quot;</span><br><span class="line"></span><br><span class="line">git push</span><br></pre></td></tr></table></figure>]]></content>
       <categories>
-        <category>GitHub</category>
-        <category>GitHub 图床</category>
+        <category>DailySkill</category>
+        <category>Tools.GitHub</category>
       </categories>
       <tags>
-        <tag>GitHub</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>web 推荐</title>
-    <url>/2024/07/15/recommendationlink/</url>
-    <content><![CDATA[]]></content>
-      <categories>
-        <category>推荐</category>
-      </categories>
-      <tags>
-        <tag>好物推荐</tag>
+        <tag>图床</tag>
       </tags>
   </entry>
   <entry>
@@ -188,6 +177,19 @@
       </categories>
       <tags>
         <tag>web</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>GitHub 创建图床</title>
+    <url>/2024/07/19/DailySkill/Tools/GitHub/mapdepot/</url>
+    <content><![CDATA[<h1 id="1-GitHub-中创建仓库"><a href="#1-GitHub-中创建仓库" class="headerlink" title="1. GitHub 中创建仓库"></a>1. GitHub 中创建仓库</h1><h1 id="2-本地创建文件夹"><a href="#2-本地创建文件夹" class="headerlink" title="2. 本地创建文件夹"></a>2. 本地创建文件夹</h1><h1 id="3-使用终端或者-git-bash-打开"><a href="#3-使用终端或者-git-bash-打开" class="headerlink" title="3. 使用终端或者 git bash 打开"></a>3. 使用终端或者 git bash 打开</h1><h1 id="4-初始化本地文件夹"><a href="#4-初始化本地文件夹" class="headerlink" title="4. 初始化本地文件夹"></a>4. 初始化本地文件夹</h1><figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">git init</span><br></pre></td></tr></table></figure>
+<h1 id="5-复制仓库的-uil"><a href="#5-复制仓库的-uil" class="headerlink" title="5. 复制仓库的 uil"></a>5. 复制仓库的 uil</h1><h1 id="6-git-clone-克隆仓库"><a href="#6-git-clone-克隆仓库" class="headerlink" title="6. git clone 克隆仓库"></a>6. git clone 克隆仓库</h1><h1 id="7-本地文件夹存放文件并推送至仓库"><a href="#7-本地文件夹存放文件并推送至仓库" class="headerlink" title="7. 本地文件夹存放文件并推送至仓库"></a>7. 本地文件夹存放文件并推送至仓库</h1><figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">git add .</span><br><span class="line"></span><br><span class="line">git commit -m &quot;日志描述&quot;</span><br><span class="line"></span><br><span class="line">git push</span><br></pre></td></tr></table></figure>]]></content>
+      <categories>
+        <category>DailySkill</category>
+        <category>Tools.GitHub</category>
+      </categories>
+      <tags>
+        <tag>图床</tag>
       </tags>
   </entry>
 </search>
