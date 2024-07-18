@@ -16,12 +16,7 @@
   <entry>
     <title>web 推荐</title>
     <url>/2024/07/15/recommendationlink/</url>
-    <content><![CDATA[<h1 id="前端部署工具-vercel"><a href="#前端部署工具-vercel" class="headerlink" title="前端部署工具 vercel"></a>前端部署工具 vercel</h1><p><a href="https://vercel.com/">vercel</a><br><br></p>
-<h1 id="个人域名"><a href="#个人域名" class="headerlink" title="个人域名"></a>个人域名</h1><p><a href="https://dc.console.aliyun.com/">阿里云</a><br><br></p>
-<h1 id="CDN"><a href="#CDN" class="headerlink" title="CDN"></a>CDN</h1><p><a href="https://dash.cloudflare.com/">cloudflare</a><br><br></p>
-<h1 id="ICONS"><a href="#ICONS" class="headerlink" title="ICONS"></a>ICONS</h1><p><a href="https://icon-icons.com/">icons</a><br><br></p>
-<h1 id="font"><a href="#font" class="headerlink" title="font"></a>font</h1><p><a href="https://fontawesome.com/">font</a><br><br></p>
-]]></content>
+    <content><![CDATA[]]></content>
       <categories>
         <category>推荐</category>
       </categories>
@@ -177,5 +172,22 @@
         <category>PC</category>
         <category>operation</category>
       </categories>
+  </entry>
+  <entry>
+    <title>web收录</title>
+    <url>/2024/07/19/%E4%B8%AA%E4%BA%BA%E6%94%B6%E5%BD%95/web/web/</url>
+    <content><![CDATA[<h1 id="前端部署工具-vercel"><a href="#前端部署工具-vercel" class="headerlink" title="前端部署工具 vercel"></a>前端部署工具 vercel</h1><p><a href="https://vercel.com/">vercel</a><br><br></p>
+<h1 id="个人域名"><a href="#个人域名" class="headerlink" title="个人域名"></a>个人域名</h1><p><a href="https://dc.console.aliyun.com/">阿里云</a><br><br></p>
+<h1 id="CDN"><a href="#CDN" class="headerlink" title="CDN"></a>CDN</h1><p><a href="https://dash.cloudflare.com/">cloudflare</a><br><br></p>
+<h1 id="ICONS"><a href="#ICONS" class="headerlink" title="ICONS"></a>ICONS</h1><p><a href="https://icon-icons.com/">icons</a><br><br></p>
+<h1 id="font"><a href="#font" class="headerlink" title="font"></a>font</h1><p><a href="https://fontawesome.com/">font</a><br><br></p>
+]]></content>
+      <categories>
+        <category>个人收录</category>
+        <category>web</category>
+      </categories>
+      <tags>
+        <tag>web</tag>
+      </tags>
   </entry>
 </search>
