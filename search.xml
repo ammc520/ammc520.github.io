@@ -101,7 +101,7 @@
       </tags>
   </entry>
   <entry>
-    <title>first md</title>
+    <title>C</title>
     <url>/2024/07/18/TechnologyStack/Programme/c/c01/</url>
     <content><![CDATA[]]></content>
       <categories>
@@ -111,9 +111,9 @@
       </categories>
   </entry>
   <entry>
-    <title>first md</title>
+    <title>Cmake 教程</title>
     <url>/2024/07/18/TechnologyStack/Programme/cmake/cmake01/</url>
-    <content><![CDATA[]]></content>
+    <content><![CDATA[<h1 id="Cmake"><a href="#Cmake" class="headerlink" title="Cmake"></a>Cmake</h1>]]></content>
       <categories>
         <category>TechnologyStack</category>
         <category>Programme</category>
@@ -121,7 +121,7 @@
       </categories>
   </entry>
   <entry>
-    <title>first md</title>
+    <title>C++</title>
     <url>/2024/07/18/TechnologyStack/Programme/cpp/cpp01/</url>
     <content><![CDATA[<h1 id="Is-my-first-cpp-md"><a href="#Is-my-first-cpp-md" class="headerlink" title="Is my first cpp md"></a>Is my first cpp md</h1><p>hello world!</p>
 ]]></content>
